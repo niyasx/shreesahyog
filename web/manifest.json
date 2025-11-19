@@ -1,0 +1,35 @@
+{
+    "name": "Shree Sahyog",
+    "short_name": "Shree Sahyog",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#002F86",
+    "theme_color": "#002F86",
+    "description": "Shree Sahyog",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Emblem-Shree-Sahayog-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Emblem-Shree-Sahayog-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Emblem-Shree-Sahayog-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Emblem-Shree-Sahayog-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
